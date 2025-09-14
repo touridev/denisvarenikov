@@ -1,4 +1,4 @@
-# 👋 Hi there.
+# 👋 I am a Senior Backend Engineer
 
 I'm a **Senior Backend Engineer** with extensive experience building **scalable, reliable systems**.  
 Passionate about clean architecture, performance optimization, and solving complex backend challenges.  
