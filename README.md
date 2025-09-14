@@ -25,16 +25,16 @@ I love working with cutting-edge technologies and mentoring teams to grow and in
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hegem27&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hegem27&layout=compact&theme=tokyonight&hide_border=true)
 
 > **Note:** Top languages don't indicate skill level — it's just based on the public code hosted on GitHub.
 
 ---
 
 ## 🏆 Achievements & Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&margin-w=15&row=1&column=6)
+![Trophies](https://github-profile-trophy.vercel.app/?username=hegem27&theme=tokyonight&margin-w=15&row=1&column=6)
 
 ---
 
