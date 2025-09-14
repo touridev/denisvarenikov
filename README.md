@@ -46,9 +46,7 @@ I love working with cutting-edge technologies and mentoring teams to grow and in
 ---
 
 ## 🌐 Let's Connect!
-- 💼 [LinkedIn](https://www.linkedin.com/)  
-- 🌟 [Portfolio Website](https://yourwebsite.com)  
-- ✉️ Email: yourname@example.com  
+- ✉️ Email: ftorjob@gmail.com  
 
 ---
 
