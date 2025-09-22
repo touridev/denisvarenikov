@@ -1,54 +1,70 @@
-# 👋 Welcome 👋
+# 👋 Hi, I'm Mark Daniel (a.k.a. touridev)
 
-I'm a **Senior Backend Engineer** with extensive experience building **scalable, reliable systems**.  
-Passionate about clean architecture, performance optimization, and solving complex backend challenges.  
-I love working with cutting-edge technologies and mentoring teams to grow and innovate.
+🚀 **Full-Stack Software Engineer** with 5+ years of experience in **web, cloud, and AI-driven applications**.  
+I specialize in **React, Node.js, Laravel, Python/AI**, and have a strong track record of building scalable apps and collaborating with international teams — including Japanese tech projects.  
+
+📫 **Contact:** [ftorjob@gmail.com](mailto:ftorjob@gmail.com)  
+🌍 **Location:** Zamboanga Peninsula, Philippines  
+💻 **Portfolio:** [github.com/touridev](https://github.com/touridev)
 
 ---
 
 ## 🛠️ Tech Stack & Skills
-### **Languages**
-- **Golang** 🐹 | **Rust** 🦀 | **Ruby on Rails** 💎 | **Node.js** 🌱  
-- **Python** 🐍 (Django, Flask) | **C# / .NET** | TypeScript / JavaScript  
 
-### **Backend & Architecture**
-- Microservices Architecture  
-- REST APIs & GraphQL  
-- Message Queues (Kafka, RabbitMQ)  
-- Distributed Systems & Performance Tuning  
-
-### **DevOps & Cloud**
-- Docker | Kubernetes | Terraform | Ansible  
-- AWS | Azure | GCP  
-- CI/CD pipelines (GitHub Actions, GitLab CI, Jenkins)
+**Frontend:** React, Vue.js, TypeScript, Responsive UI/UX, Shopify, WordPress  
+**Backend:** Node.js, PHP (Laravel), Python (Django/FastAPI), REST, GraphQL  
+**Databases:** MySQL, PostgreSQL, Firebase  
+**Cloud & DevOps:** AWS, GCP, Docker, CI/CD  
+**Other:** Agile/Scrum, API Development, AI Integration, SEO Optimization  
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=denisvarenikov&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+## 💼 Work Experience Highlights
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=denisvarenikov&layout=compact&theme=tokyonight&hide_border=true)
-
-> **Note:** Top languages don't indicate skill level — it's just based on the public code hosted on GitHub.
-
----
-
-## 🏆 Achievements & Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=denisvarenikov&theme=tokyonight&margin-w=15&row=1&column=6)
+- **ReachLink (Remote)** – Built enterprise apps using React, Node.js & PostgreSQL, integrated AWS/Firebase, mentored juniors, and collaborated with Japanese teams.  
+- **ACRET-PH (Cebu)** – Developed SaaS solutions, implemented CI/CD pipelines, and optimized workflows for SMEs.  
+- **GoodApps Inc. (Cebu)** – Migrated legacy projects to **Laravel + Vue.js**, boosting site traffic by 40%.  
+- **Pixzel Digital (Iligan)** – Built **Shopify/WordPress e-commerce sites**, optimized UI/UX, and delivered tailored solutions.  
 
 ---
 
-## 🌟 Current Focus
-- Building high-performance backend systems with **Go**, **Rust**, and **Python**  
-- Exploring cutting-edge DevOps practices and cloud-native technologies  
-- Mentoring developers and improving engineering culture
+## 📌 Featured Projects
+
+### 🔹 [Shopify Checkout Bypasser](#)
+*05/2018 – 12/2018*  
+Prototype checkout system integrating **Shopify, Stripe, and PayPal** with webhook handling.  
+- Deployed on **Heroku** with configurable environment variables.  
+- Clear setup & integration docs for developers.  
+
+### 🔹 [E-commerce Platform (Laravel + Vue)](https://github.com/neoighodaro-articles/e-commerce-laravel-vue)
+*03/2019 – 05/2019*  
+Full-stack demo e-commerce platform with **Laravel (API)** + **Vue.js (frontend)**.  
+- Auth & authorization with **Laravel Passport**  
+- Database migrations & seeding  
+- RESTful APIs for cart & checkout  
+- Dynamic UI with Vue.js  
 
 ---
 
-## 🌐 Let's Connect!
-- ✉️ Email: ftorjob@gmail.com  
+## 📊 GitHub Stats & Activity  
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=touridev&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=touridev&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=touridev&layout=compact&theme=tokyonight" />
+  <img width="48%" src="https://github-profile-trophy.vercel.app/?username=touridev&theme=tokyonight&no-frame=true&margin-w=15" />
+</p>
 
 ---
 
-⭐ **Fun Fact:**  
-> I love tackling distributed systems problems and experimenting with new programming languages like Rust to build next-gen backend solutions!
+## 🌐 Let's Connect  
+
+- ✉️ Email: [ftorjob@gmail.com](mailto:ftorjob@gmail.com)  
+- 💼 LinkedIn: *[Add your LinkedIn here]*  
+- 🐙 GitHub: [github.com/touridev](https://github.com/touridev)  
+
+---
+✨ *"Code with purpose, build with passion, and adapt for tomorrow."*
