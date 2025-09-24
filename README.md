@@ -3,10 +3,6 @@
 🚀 **Full-Stack Software Engineer** with 5+ years of experience in **web, cloud, and AI-driven applications**.  
 I specialize in **React, Node.js, Laravel, Python/AI**, and have a strong track record of building scalable apps and collaborating with international teams — including Japanese tech projects.  
 
-📫 **Contact:** [ftorjob@gmail.com](mailto:ftorjob@gmail.com)  
-🌍 **Location:** Zamboanga Peninsula, Philippines  
-💻 **Portfolio:** [github.com/touridev](https://github.com/touridev)
-
 ---
 
 ## 🛠️ Tech Stack & Skills
@@ -62,8 +58,6 @@ Full-stack demo e-commerce platform with **Laravel (API)** + **Vue.js (frontend)
 
 ## 🌐 Let's Connect  
 
-- ✉️ Email: [ftorjob@gmail.com](mailto:ftorjob@gmail.com)  
-- 💼 LinkedIn: *[Add your LinkedIn here]*  
 - 🐙 GitHub: [github.com/touridev](https://github.com/touridev)  
 
 ---
