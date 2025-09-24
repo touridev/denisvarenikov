@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mark Daniel (a.k.a. touridev)
+# 👋 Hi, I'm Full-Stack Developer.
 
 🚀 **Full-Stack Software Engineer** with 5+ years of experience in **web, cloud, and AI-driven applications**.  
 I specialize in **React, Node.js, Laravel, Python/AI**, and have a strong track record of building scalable apps and collaborating with international teams — including Japanese tech projects.  
