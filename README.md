@@ -52,7 +52,7 @@ Create software that **empowers users and businesses**, simplifies complex proce
 ## 📊 GitHub Stats
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=touridev&layout=compact&theme=radical)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dev-king21&show_icons=true&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=touridev&show_icons=true&theme=radical)  
 
 ---
 
