@@ -55,8 +55,3 @@ Create software that **empowers users and businesses**, simplifies complex proce
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=touridev&show_icons=true&theme=radical)  
 
 ---
-
-## 🌐 Connect
-
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/touridev)  
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ftorjob@gmail.com)
